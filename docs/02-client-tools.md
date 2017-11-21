@@ -2,9 +2,9 @@
 
 ---
 
-本次實驗你將會安裝一些實用的指令工具, 用來完成這次的整份教學 :  [cfssl](https://github.com/cloudflare/cfssl), [cfssljson](https://github.com/cloudflare/cfssl), and [kubectl](https://kubernetes.io/docs/tasks/tools/install-kubectl)
+本次實驗你將會安裝一些實用的指令工具, 用來完成這整份教學 :  [cfssl](https://github.com/cloudflare/cfssl), [cfssljson](https://github.com/cloudflare/cfssl), and [kubectl](https://kubernetes.io/docs/tasks/tools/install-kubectl)
 
-從[cfssl repository](https://pkg.cfssl.org)下載`cfssl` and `cfssljson` 與安裝
+從[cfssl repository](https://pkg.cfssl.org)下載`cfssl` and `cfssljson` 並安裝
 
 ### OS X
 
