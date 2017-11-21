@@ -24,7 +24,7 @@ Kubernetes The Hard Way 將引導你建立高可用的Kubernetes的叢集, 包�
 這份教學假設你已經有辦法登入[Google Cloud Platform](https://cloud.google.com), GCP被用來作為這篇教學的基礎需求,你也可以將這篇教學應用在其他平台上
 
 * [事前準備](docs/01-prerequisites.md)
-* [Installing the Client Tools](docs/02-client-tools.md)
+* [安裝Client 工具](docs/02-client-tools.md)
 * [Provisioning Compute Resources](docs/03-compute-resources.md)
 * [Provisioning the CA and Generating TLS Certificates](docs/04-certificate-authority.md)
 * [Generating Kubernetes Configuration Files for Authentication](docs/05-kubernetes-configuration-files.md)
