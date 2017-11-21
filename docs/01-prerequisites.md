@@ -22,7 +22,7 @@ gcloud version
 
 這個部份假設你的 defalut compute region 與 zone都已經被設定好
 
-如果你第一次使用`gcloud`指令工具,`init` 是一個最簡單的方式:
+如果你第一次使用`gcloud`指令工具,`init` 是一個最簡單的設定方式:
 
 ```
 gcloud init
