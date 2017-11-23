@@ -4,7 +4,7 @@
 這份教學將帶領你走上安裝kubernetes的艱辛之路。這份文件不適用於想要一鍵自動化部屬kubernetes叢集的人。如果你想要輕鬆部屬, 可以參考[Google Container Engine](https://cloud.google.com/container-engine) 或[Getting Started Guides](http://kubernetes.io/docs/getting-started-guides/)
 
 Kubernetes The Hard Way 是個學習的最佳方式, 會花上許多時間確保你真正了解每項元件的任務以及需求,去搭建整個kubernetes 叢集
-> 這份文件不應該出現在production 文件中, 也沒辦法獲得社區的許多支持, 但是因此阻擋你想真正了解Kubernetes的決心！
+> 這份文件不應該出現在production 文件中, 也無獲得社區的許多支持, 但這都不影響你想真正了解Kubernetes的決心！
 
 ---
 
