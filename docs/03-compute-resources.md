@@ -1,4 +1,4 @@
-G 準備計算資源
+# 準備計算資源
 Kubernetes 需要一些機器去搭建管理 Kubernetes 的控制平台, 也需要一些工作節點(work node)讓 container 運行, 在這個實驗你將會準備計算資源, 透過single [compute zone](https://cloud.google.com/compute/docs/regions-zones/regions-zones)來運行安全且高可用的 Kubernetes 叢集 
 
 > 請確定 default compute zone 和 region 已照著 [事前準備](01-prerequisites.md#set-a-default-compute-region-and-zone)的設定步驟完成
@@ -7,10 +7,10 @@ Kubernetes 需要一些機器去搭建管理 Kubernetes 的控制平台, 也需�
 ## Networking
 
 Kubernetes [networking model](https://kubernetes.io/docs/concepts/cluster-administration/networking/#kubernetes-model) 假設使用flat 
-網路能讓每個 container 與節點都互相溝通。 在這邊我們不去提及 network policies ,一個可以控管 container 之間相互的連線, 或是連到外網的終端
+網路能讓每個 container 與節點都互相溝通。 在這邊我們不去提及 network policies ,一個用來控管 container 之間相互的連線, 或是連到外網的終端的機制
 
 
-> 設定network policies 已超出這次教學範圍
+> 設定network policies 不在這次教學範圍內
 
 
 ### Virtual Private Cloud Network

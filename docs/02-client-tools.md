@@ -49,7 +49,7 @@ sudo mv cfssljson_linux-amd64 /usr/local/bin/cfssljson
 cfssl version
 ```
 
-> output
+> 輸出為
 
 ```
 Version: 1.2.0

@@ -3,9 +3,9 @@
 ## Google Cloud Platform
 
 這份教學文件使用了[Google Cloud Platform](https://cloud.google.com/)當作kubernetes叢集的環境平台。[註冊](https://cloud.google.com/free/) 即可獲得300美元的試用金。
-[估計花費](https://cloud.google.com/products/calculator/#id=78df6ced-9c50-48f8-a670-bc5003f2ddaa)以完成教學: 每小時$0.22 (每天$5.39 ).
+[估計](https://cloud.google.com/products/calculator/#id=78df6ced-9c50-48f8-a670-bc5003f2ddaa)完成教學的花費金額: 每小時$0.22 (每天$5.39 ).
 
-> 教學的計算資源會超出試用金的額度。
+> 這份教學需求的計算資源會超出試用金的額度。
 
 ## Google Cloud Platform SDK
 
@@ -20,7 +20,7 @@ gcloud version
 
 ### 設定一個 Default Compute Region 和 Zone
 
-這個部份假設你的 defalut compute region 與 zone都已經被設定好
+這個部份假設你的 defalut compute region 與 zone都已經被設定好了
 
 如果你第一次使用`gcloud`指令工具,`init` 是一個最簡單的設定方式:
 
