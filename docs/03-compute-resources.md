@@ -83,8 +83,6 @@ gcloud compute addresses create kubernetes-the-hard-way \
   --region $(gcloud config get-value compute/region)
 ```
 
-
-Verify the `kubernetes-the-hard-way` static IP address was created in your default compute region:
 驗證 `kubernetes-the-hard-way` 固定IP地址被 你的default compute region 建立出來:
 
 ```

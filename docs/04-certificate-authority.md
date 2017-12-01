@@ -66,7 +66,7 @@ ca.pem
 
 ## client 與 server 憑證
 
-這個部份你將會產生 client 與 server 的憑證給每個 Kubernetes 的組件, 一個 client 憑證 給Kubernetes `admin` 使用者
+這個部份你將會建立 client 與 server 的憑證給每個 Kubernetes 的組件, 建立一個 client 憑證 給Kubernetes `admin` 使用者
 
 
 ### The Admin Client Certificate
@@ -223,7 +223,7 @@ kube-proxy.pem
 
 ### The Kubernetes API Server Certificate
 
-`kubernetes-the-hard-way`的固定 IP 地址 will be included in the list of subject alternative names for the Kubernetes API Server certificate
+`kubernetes-the-hard-way`的固定 IP 地址 會被含在 Kubernetes API Server 憑證裡
 
 這將確保此憑證對遠端客戶端仍然有效
 
@@ -301,7 +301,7 @@ for instance in controller-0 controller-1 controller-2; do
 done
 ```
 
-> `kube-proxy` 和 `kubelet` client 憑證將會被用來產生clinet 的授權設定檔, 我們將在下一個實驗中說明
+> `kube-proxy` 和 `kubelet` client 憑證將會被用來產生client 的授權設定檔, 我們將在下一個實驗中說明
 
 Next: [建立認證用Kubernetes 設定檔](05-kubernetes-configuration-files.md)
 
