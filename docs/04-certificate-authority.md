@@ -66,7 +66,7 @@ ca.pem
 
 ## client 與 server 憑證
 
-這個部份你將會產生 client 與 server 的憑證給每個 Kubernetes 的組件, 一個 client 憑證 給Kubernetes `admin` 使用者
+這個部份你將會建立 client 與 server 的憑證給每個 Kubernetes 的組件, 建立一個 client 憑證 給Kubernetes `admin` 使用者
 
 
 ### The Admin Client Certificate
