@@ -40,6 +40,6 @@ Kubernetes The Hard Way 將引導你建立高可用的Kubernetes的叢集, 包�
 * [啟動 Kubernetes Worker 節點](docs/09-bootstrapping-kubernetes-workers.md)
 * [遠端請求Kubectl相關設定](docs/10-configuring-kubectl.md)
 * [提供Pod網路路由](docs/11-pod-network-routes.md)
-* [Deploying the DNS Cluster Add-on](docs/12-dns-addon.md)
+* [部屬DNS群集插件](docs/12-dns-addon.md)
 * [Smoke Test](docs/13-smoke-test.md)
 * [Cleaning Up](docs/14-cleanup.md)
