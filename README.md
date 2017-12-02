@@ -35,7 +35,7 @@ Kubernetes The Hard Way 將引導你建立高可用的Kubernetes的叢集, 包�
 * [提供 CA 和產生 TLS 憑證](docs/04-certificate-authority.md)
 * [建立認證用Kubernetes 設定檔](docs/05-kubernetes-configuration-files.md)
 * [建立資料加密設定檔與密鑰](docs/06-data-encryption-keys.md)
-* [Bootstrapping the etcd Cluster](docs/07-bootstrapping-etcd.md)
+* [啟動etcd 群集](docs/07-bootstrapping-etcd.md)
 * [Bootstrapping the Kubernetes Control Plane](docs/08-bootstrapping-kubernetes-controllers.md)
 * [Bootstrapping the Kubernetes Worker Nodes](docs/09-bootstrapping-kubernetes-workers.md)
 * [Configuring kubectl for Remote Access](docs/10-configuring-kubectl.md)
