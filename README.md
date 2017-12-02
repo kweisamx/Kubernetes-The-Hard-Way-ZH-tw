@@ -37,7 +37,7 @@ Kubernetes The Hard Way 將引導你建立高可用的Kubernetes的叢集, 包�
 * [建立資料加密設定檔與密鑰](docs/06-data-encryption-keys.md)
 * [啟動etcd 群集](docs/07-bootstrapping-etcd.md)
 * [啟動 Kubernetes 控制平台](docs/08-bootstrapping-kubernetes-controllers.md)
-* [Bootstrapping the Kubernetes Worker Nodes](docs/09-bootstrapping-kubernetes-workers.md)
+* [啟動 Kubernetes Worker 節點](docs/09-bootstrapping-kubernetes-workers.md)
 * [Configuring kubectl for Remote Access](docs/10-configuring-kubectl.md)
 * [Provisioning Pod Network Routes](docs/11-pod-network-routes.md)
 * [Deploying the DNS Cluster Add-on](docs/12-dns-addon.md)
