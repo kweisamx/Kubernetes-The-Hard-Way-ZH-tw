@@ -41,5 +41,5 @@ Kubernetes The Hard Way 將引導你建立高可用的Kubernetes的叢集, 包�
 * [遠端請求Kubectl相關設定](docs/10-configuring-kubectl.md)
 * [提供Pod網路路由](docs/11-pod-network-routes.md)
 * [部屬DNS群集插件](docs/12-dns-addon.md)
-* [Smoke Test](docs/13-smoke-test.md)
+* [煙霧測試](docs/13-smoke-test.md)
 * [Cleaning Up](docs/14-cleanup.md)
