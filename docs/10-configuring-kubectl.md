@@ -1,4 +1,4 @@
-# 遠端請求Kubectl相關設定
+# 配置 Kubectl
 
 在本次實驗中你將會建立基於`admin` user 憑證的kubeconfig檔給`kubectl`指令使用
 
@@ -80,6 +80,6 @@ worker-2   Ready     <none>    2m        v1.8.0
 ```
 
 
-Next: [提供Pod網路路由](11-pod-network-routes.md)
+Next: [配置 Pod 網路路由](11-pod-network-routes.md)
 
 

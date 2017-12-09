@@ -1,4 +1,4 @@
-# 建立認證用Kubernetes 設定檔
+# 配置和生成 Kubernetes 配置文件
 在此次實驗中, 你會建立[Kubernetes 設定檔](https://kubernetes.io/docs/concepts/configuration/organize-cluster-access-kubeconfig/), 又被稱作 kubeconfigs, 用來使Kubernetes client能搜尋並認證Kubernetes API Server
 
 
@@ -99,4 +99,4 @@ done
 
 
 
-Next: [建立資料加密設定檔與密鑰](06-data-encryption-keys.md)
+Next: [配置和生成密鑰](06-data-encryption-keys.md)

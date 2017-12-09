@@ -1,4 +1,5 @@
 # 準備計算資源
+
 Kubernetes 需要一些機器去搭建管理 Kubernetes 的控制平台, 也需要一些工作節點(work node)讓 container 運行, 在這個實驗你將會準備計算資源, 透過single [compute zone](https://cloud.google.com/compute/docs/regions-zones/regions-zones)來運行安全且高可用的 Kubernetes 叢集 
 
 > 請確定 default compute zone 和 region 已照著 [事前準備](01-prerequisites.md#set-a-default-compute-region-and-zone)的設定步驟完成
@@ -170,4 +171,4 @@ worker-1      us-west1-c  n1-standard-1               10.240.0.21  XX.XXX.XX.XXX
 worker-2      us-west1-c  n1-standard-1               10.240.0.22  XXX.XXX.XX.XX   RUNNING
 ```
 
-Next: [提供CA 和 產生 TLS 憑證](04-certificate-authority.md)
+Next: [配置CA 和 產生 TLS 憑證](04-certificate-authority.md)

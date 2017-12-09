@@ -218,4 +218,4 @@ Accept-Ranges: bytes
 ```
 
 
-Next: [移除](14-cleanup.md)
+Next: [刪除集群](14-cleanup.md)
