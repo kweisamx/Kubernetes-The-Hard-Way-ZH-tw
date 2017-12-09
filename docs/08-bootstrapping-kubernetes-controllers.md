@@ -206,7 +206,7 @@ etcd-1               Healthy   {"health": "true"}
 
 請求 Kubeket API 用以獲取相關的資源, 例如: metrics, logs, 和在每個Pod裡執行指令
 
-> 這份教學設置 Kubeket `--authorization-mode` flag 給 `Webhook`。Webhook模式使用[SubjectAccessReview](https://kubernetes.io/docs/admin/authorization/#checking-api-access) api 去決定授權
+> 這份教學設置 Kubelet `--authorization-mode` flag 給 `Webhook`。Webhook模式使用[SubjectAccessReview](https://kubernetes.io/docs/admin/authorization/#checking-api-access) api 去決定授權
 
 ```
 gcloud compute ssh controller-0
