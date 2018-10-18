@@ -60,7 +60,7 @@ Runtime: go1.6
 
 ## 安裝kubectl
 
-`kubectk`指令工具是用來與 Kubernetes API Server溝通的, 下載並安裝`kubectl` ,可在官方取得
+`kubectl`指令工具是用來與 Kubernetes API Server溝通的, 下載並安裝`kubectl` ,可在官方取得
 ### OS X
 
 ```
